@@ -1,0 +1,45 @@
+h3 {
+    font-size: 20px;
+    font-family: 'Montserrat' ;
+    color: grey ; 
+
+}
+
+.footer a {
+
+    text-decoration: none;
+    color: darkgray;
+    
+}
+@keyframes rainbow {
+    0% {
+      color: #fc0303;
+    }
+    17% {
+      color: #45f52a;
+    }
+    34% {
+      color: #2a7bf5;
+    }
+    51% {
+      color: #2af5e4;
+    }
+    68% {
+      color: #c92af5;
+    }
+    85% {
+      color: #f5dd2a;
+    }
+    100% {
+      color: #f200ff;
+    }
+  }
+
+.footer a:hover {
+
+        animation-name: rainbow;
+        animation-duration: 800ms;
+        animation-iteration-count: infinite;
+      
+}
+
