@@ -3,7 +3,7 @@
   "name": "gallery",
   "private": true,
   "version": "0.0.0",
-  "homepage":"https://walaamus.github.io/my-gallery/",
+  "homepage":"http://walaamus.github.io/my-gallery",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
